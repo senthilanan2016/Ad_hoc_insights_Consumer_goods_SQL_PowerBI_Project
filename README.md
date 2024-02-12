@@ -1,0 +1,2 @@
+# Ad_hoc_insights_Consumer_goods_SQL_PowerBI_Project
+Data Analytics Project
